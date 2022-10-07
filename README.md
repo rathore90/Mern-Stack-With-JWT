@@ -6,6 +6,7 @@ This full-stack application is build with the following tech stack
 - Node
 - MVC(Modal View Controller)
 - React Redux (Global state)
+- JWt authentication is in progress
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
